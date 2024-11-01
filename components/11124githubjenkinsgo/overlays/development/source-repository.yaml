@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: 11124githubjenkinsgo-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/11124githubjenkinsgo
